@@ -4,7 +4,7 @@ Steps to get the project running locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/project.git
+git clone https://github.com/SaharGhadampoorHafezi/azkiservice-code-challenge.git
 cd project
 
 # Install dependencies
